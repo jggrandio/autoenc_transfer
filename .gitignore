@@ -1,0 +1,11 @@
+# Environment
+env/
+
+# Datasets
+datasets/
+
+#checkpoints
+.ipynb_checkpoints/
+
+#h5 files
+*.h5
